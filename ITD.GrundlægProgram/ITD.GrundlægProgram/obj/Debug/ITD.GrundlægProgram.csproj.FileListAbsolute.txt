@@ -1,0 +1,6 @@
+C:\Users\Mørup\Dropbox\HF1\C# - Visual Studio\ITD.GrundlægProgram\ITD.GrundlægProgram\bin\Debug\ITD.GrundlægProgram.exe.config
+C:\Users\Mørup\Dropbox\HF1\C# - Visual Studio\ITD.GrundlægProgram\ITD.GrundlægProgram\bin\Debug\ITD.GrundlægProgram.exe
+C:\Users\Mørup\Dropbox\HF1\C# - Visual Studio\ITD.GrundlægProgram\ITD.GrundlægProgram\bin\Debug\ITD.GrundlægProgram.pdb
+C:\Users\Mørup\Dropbox\HF1\C# - Visual Studio\ITD.GrundlægProgram\ITD.GrundlægProgram\obj\Debug\ITD.GrundlægProgram.csprojResolveAssemblyReference.cache
+C:\Users\Mørup\Dropbox\HF1\C# - Visual Studio\ITD.GrundlægProgram\ITD.GrundlægProgram\obj\Debug\ITD.GrundlægProgram.exe
+C:\Users\Mørup\Dropbox\HF1\C# - Visual Studio\ITD.GrundlægProgram\ITD.GrundlægProgram\obj\Debug\ITD.GrundlægProgram.pdb

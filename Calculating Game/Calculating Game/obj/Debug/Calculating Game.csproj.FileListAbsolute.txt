@@ -1,0 +1,6 @@
+C:\Users\Mørup\Dropbox\HF1\C# - Visual Studio\Calculating Game\Calculating Game\bin\Debug\Calculating Game.exe.config
+C:\Users\Mørup\Dropbox\HF1\C# - Visual Studio\Calculating Game\Calculating Game\bin\Debug\Calculating Game.exe
+C:\Users\Mørup\Dropbox\HF1\C# - Visual Studio\Calculating Game\Calculating Game\bin\Debug\Calculating Game.pdb
+C:\Users\Mørup\Dropbox\HF1\C# - Visual Studio\Calculating Game\Calculating Game\obj\Debug\Calculating Game.csprojResolveAssemblyReference.cache
+C:\Users\Mørup\Dropbox\HF1\C# - Visual Studio\Calculating Game\Calculating Game\obj\Debug\Calculating Game.exe
+C:\Users\Mørup\Dropbox\HF1\C# - Visual Studio\Calculating Game\Calculating Game\obj\Debug\Calculating Game.pdb

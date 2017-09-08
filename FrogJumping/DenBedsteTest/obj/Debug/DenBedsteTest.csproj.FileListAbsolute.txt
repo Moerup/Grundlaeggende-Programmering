@@ -1,0 +1,5 @@
+C:\Users\Mørup\Dropbox\HF1\C# - Visual Studio\FrogJumping\DenBedsteTest\bin\Debug\DenBedsteTest.exe.config
+C:\Users\Mørup\Dropbox\HF1\C# - Visual Studio\FrogJumping\DenBedsteTest\bin\Debug\DenBedsteTest.exe
+C:\Users\Mørup\Dropbox\HF1\C# - Visual Studio\FrogJumping\DenBedsteTest\bin\Debug\DenBedsteTest.pdb
+C:\Users\Mørup\Dropbox\HF1\C# - Visual Studio\FrogJumping\DenBedsteTest\obj\Debug\DenBedsteTest.exe
+C:\Users\Mørup\Dropbox\HF1\C# - Visual Studio\FrogJumping\DenBedsteTest\obj\Debug\DenBedsteTest.pdb

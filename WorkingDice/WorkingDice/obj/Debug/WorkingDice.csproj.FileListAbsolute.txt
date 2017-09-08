@@ -1,0 +1,6 @@
+C:\Users\Mørup\Dropbox\HF1\C# - Visual Studio\WorkingDice\WorkingDice\bin\Debug\WorkingDice.exe.config
+C:\Users\Mørup\Dropbox\HF1\C# - Visual Studio\WorkingDice\WorkingDice\bin\Debug\WorkingDice.exe
+C:\Users\Mørup\Dropbox\HF1\C# - Visual Studio\WorkingDice\WorkingDice\bin\Debug\WorkingDice.pdb
+C:\Users\Mørup\Dropbox\HF1\C# - Visual Studio\WorkingDice\WorkingDice\obj\Debug\WorkingDice.exe
+C:\Users\Mørup\Dropbox\HF1\C# - Visual Studio\WorkingDice\WorkingDice\obj\Debug\WorkingDice.pdb
+C:\Users\Mørup\Dropbox\HF1\C# - Visual Studio\WorkingDice\WorkingDice\obj\Debug\WorkingDice.csprojResolveAssemblyReference.cache

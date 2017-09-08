@@ -1,0 +1,6 @@
+C:\Users\Mørup\Dropbox\HF1\C# - Visual Studio\Lommeregner\Lommeregner\bin\Debug\Lommeregner.exe.config
+C:\Users\Mørup\Dropbox\HF1\C# - Visual Studio\Lommeregner\Lommeregner\bin\Debug\Lommeregner.exe
+C:\Users\Mørup\Dropbox\HF1\C# - Visual Studio\Lommeregner\Lommeregner\bin\Debug\Lommeregner.pdb
+C:\Users\Mørup\Dropbox\HF1\C# - Visual Studio\Lommeregner\Lommeregner\obj\Debug\Lommeregner.csprojResolveAssemblyReference.cache
+C:\Users\Mørup\Dropbox\HF1\C# - Visual Studio\Lommeregner\Lommeregner\obj\Debug\Lommeregner.exe
+C:\Users\Mørup\Dropbox\HF1\C# - Visual Studio\Lommeregner\Lommeregner\obj\Debug\Lommeregner.pdb
